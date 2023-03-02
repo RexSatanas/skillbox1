@@ -1,4 +1,5 @@
 print('Hello World')
 print(' Friday tomorrow')
 print('wewewe')
-print('silver')
+silcer = 13
+print(silver)
